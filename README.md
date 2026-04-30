@@ -1,2 +1,2 @@
-# Elpriser
-Ett pythonprogram som laddar upp aktuella kvartspriser till en price.json-fil, tänkt att användas mot Domoticz men fungerar till det mesta
+A python program that loads actual quarter prices into a price.json file, intended to be used against Domoticz but works for most things
+
