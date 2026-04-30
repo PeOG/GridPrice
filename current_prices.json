@@ -1,0 +1,5 @@
+{
+    "fetch_timestamp": "2026-04-30T13:16:43.334841",
+    "area": "10YSE-3------C",
+    "raw_response": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<Acknowledgement_MarketDocument\n\txmlns=\"urn:iec62325.351:tc57wg16:451-1:acknowledgementdocument:7:0\">\n\t<mRID>10b9eaec-6719-4</mRID>\n\t<createdDateTime>2026-04-30T11:16:43Z</createdDateTime>\n\t<sender_MarketParticipant.mRID codingScheme=\"A01\">10X1001A1001A450</sender_MarketParticipant.mRID>\n\t<sender_MarketParticipant.marketRole.type>A32</sender_MarketParticipant.marketRole.type>\n\t<receiver_MarketParticipant.mRID codingScheme=\"A01\">10X1001A1001A450</receiver_Ma"
+}

@@ -3,3 +3,6 @@ Ett pythonprogram som laddar upp aktuella kvartspriser till en price.json-fil, t
 Datat laddas från Transparency där du skapar ett gratiskonto och genererar ett token som du ska lägga in i en fil du döper till ".env"
 
 Nu börjar jag strax med själva programmet
+
+
+Du måste ha Python och python-dotenv installerade
