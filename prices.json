@@ -1,0 +1,387 @@
+{
+    "project": "PeOzoft GridPrice",
+    "start_time": "2026-04-30T22:00Z",
+    "amoount_of_15mins": 95,
+    "data": [
+        {
+            "id": 1,
+            "pris_eur": 27.25
+        },
+        {
+            "id": 2,
+            "pris_eur": 23.32
+        },
+        {
+            "id": 3,
+            "pris_eur": 19.54
+        },
+        {
+            "id": 4,
+            "pris_eur": 18.17
+        },
+        {
+            "id": 5,
+            "pris_eur": 19.8
+        },
+        {
+            "id": 6,
+            "pris_eur": 18.31
+        },
+        {
+            "id": 7,
+            "pris_eur": 17.31
+        },
+        {
+            "id": 8,
+            "pris_eur": 18.03
+        },
+        {
+            "id": 9,
+            "pris_eur": 18.24
+        },
+        {
+            "id": 10,
+            "pris_eur": 17.92
+        },
+        {
+            "id": 11,
+            "pris_eur": 16.85
+        },
+        {
+            "id": 12,
+            "pris_eur": 18.8
+        },
+        {
+            "id": 13,
+            "pris_eur": 19.84
+        },
+        {
+            "id": 14,
+            "pris_eur": 17.9
+        },
+        {
+            "id": 15,
+            "pris_eur": 16.91
+        },
+        {
+            "id": 16,
+            "pris_eur": 20.06
+        },
+        {
+            "id": 17,
+            "pris_eur": 20.07
+        },
+        {
+            "id": 18,
+            "pris_eur": 20.0
+        },
+        {
+            "id": 19,
+            "pris_eur": 20.53
+        },
+        {
+            "id": 20,
+            "pris_eur": 20.63
+        },
+        {
+            "id": 21,
+            "pris_eur": 19.81
+        },
+        {
+            "id": 22,
+            "pris_eur": 18.04
+        },
+        {
+            "id": 23,
+            "pris_eur": 16.8
+        },
+        {
+            "id": 24,
+            "pris_eur": 20.63
+        },
+        {
+            "id": 25,
+            "pris_eur": 20.54
+        },
+        {
+            "id": 26,
+            "pris_eur": 20.33
+        },
+        {
+            "id": 27,
+            "pris_eur": 18.49
+        },
+        {
+            "id": 28,
+            "pris_eur": 16.92
+        },
+        {
+            "id": 29,
+            "pris_eur": 17.0
+        },
+        {
+            "id": 30,
+            "pris_eur": 18.3
+        },
+        {
+            "id": 31,
+            "pris_eur": 18.29
+        },
+        {
+            "id": 32,
+            "pris_eur": 20.99
+        },
+        {
+            "id": 33,
+            "pris_eur": 22.3
+        },
+        {
+            "id": 34,
+            "pris_eur": 7.2
+        },
+        {
+            "id": 35,
+            "pris_eur": 2.79
+        },
+        {
+            "id": 36,
+            "pris_eur": 5.03
+        },
+        {
+            "id": 37,
+            "pris_eur": 4.03
+        },
+        {
+            "id": 38,
+            "pris_eur": 2.59
+        },
+        {
+            "id": 39,
+            "pris_eur": 2.24
+        },
+        {
+            "id": 40,
+            "pris_eur": 2.41
+        },
+        {
+            "id": 41,
+            "pris_eur": 1.45
+        },
+        {
+            "id": 42,
+            "pris_eur": 0.94
+        },
+        {
+            "id": 43,
+            "pris_eur": 0.78
+        },
+        {
+            "id": 44,
+            "pris_eur": 0.84
+        },
+        {
+            "id": 45,
+            "pris_eur": 0.75
+        },
+        {
+            "id": 46,
+            "pris_eur": 0.52
+        },
+        {
+            "id": 47,
+            "pris_eur": 0.41
+        },
+        {
+            "id": 48,
+            "pris_eur": -0.56
+        },
+        {
+            "id": 49,
+            "pris_eur": -0.53
+        },
+        {
+            "id": 50,
+            "pris_eur": -0.43
+        },
+        {
+            "id": 51,
+            "pris_eur": -1.5
+        },
+        {
+            "id": 52,
+            "pris_eur": -1.49
+        },
+        {
+            "id": 53,
+            "pris_eur": -2.13
+        },
+        {
+            "id": 54,
+            "pris_eur": -3.41
+        },
+        {
+            "id": 55,
+            "pris_eur": -4.65
+        },
+        {
+            "id": 56,
+            "pris_eur": -4.69
+        },
+        {
+            "id": 57,
+            "pris_eur": -4.62
+        },
+        {
+            "id": 58,
+            "pris_eur": -4.54
+        },
+        {
+            "id": 59,
+            "pris_eur": -4.53
+        },
+        {
+            "id": 60,
+            "pris_eur": -4.52
+        },
+        {
+            "id": 61,
+            "pris_eur": -4.1
+        },
+        {
+            "id": 62,
+            "pris_eur": -3.86
+        },
+        {
+            "id": 63,
+            "pris_eur": -2.35
+        },
+        {
+            "id": 64,
+            "pris_eur": -1.01
+        },
+        {
+            "id": 65,
+            "pris_eur": -0.02
+        },
+        {
+            "id": 66,
+            "pris_eur": 0.01
+        },
+        {
+            "id": 67,
+            "pris_eur": 0.77
+        },
+        {
+            "id": 68,
+            "pris_eur": 0.48
+        },
+        {
+            "id": 69,
+            "pris_eur": 1.1
+        },
+        {
+            "id": 70,
+            "pris_eur": 4.4
+        },
+        {
+            "id": 71,
+            "pris_eur": 19.25
+        },
+        {
+            "id": 72,
+            "pris_eur": 5.07
+        },
+        {
+            "id": 73,
+            "pris_eur": 10.84
+        },
+        {
+            "id": 74,
+            "pris_eur": 16.74
+        },
+        {
+            "id": 75,
+            "pris_eur": 20.53
+        },
+        {
+            "id": 76,
+            "pris_eur": 16.72
+        },
+        {
+            "id": 77,
+            "pris_eur": 16.69
+        },
+        {
+            "id": 78,
+            "pris_eur": 17.27
+        },
+        {
+            "id": 79,
+            "pris_eur": 15.58
+        },
+        {
+            "id": 80,
+            "pris_eur": 17.53
+        },
+        {
+            "id": 81,
+            "pris_eur": 14.36
+        },
+        {
+            "id": 82,
+            "pris_eur": 13.63
+        },
+        {
+            "id": 83,
+            "pris_eur": 10.3
+        },
+        {
+            "id": 84,
+            "pris_eur": 15.12
+        },
+        {
+            "id": 85,
+            "pris_eur": 14.95
+        },
+        {
+            "id": 86,
+            "pris_eur": 13.25
+        },
+        {
+            "id": 87,
+            "pris_eur": 10.01
+        },
+        {
+            "id": 88,
+            "pris_eur": 13.83
+        },
+        {
+            "id": 89,
+            "pris_eur": 10.04
+        },
+        {
+            "id": 90,
+            "pris_eur": 8.37
+        },
+        {
+            "id": 91,
+            "pris_eur": 7.3
+        },
+        {
+            "id": 92,
+            "pris_eur": 10.0
+        },
+        {
+            "id": 93,
+            "pris_eur": 9.21
+        },
+        {
+            "id": 94,
+            "pris_eur": 7.31
+        },
+        {
+            "id": 95,
+            "pris_eur": 6.95
+        }
+    ]
+}

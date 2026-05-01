@@ -1,3 +1,4 @@
 .env
+valuta.json
 __pycache__/
 *.pyc
